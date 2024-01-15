@@ -43,7 +43,7 @@ public class PhoneBook {
 // System.out.println("Please enter the query!");
 // Scanner sq = new Scanner(System.in);
 //
-// String temp = "QUERY name nomi";
+// String temp = "QUERY name James Smith ";
 //
 // boolean isln = list.containsAll();
 // System.out.println(isln);
